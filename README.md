@@ -17,6 +17,7 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
   </a>  
 </p>
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/nobuddy2743/AutoCaption-bot&branch=main&name=nvsautocaptionbot)
 
 ### Deploy To Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/AutoCaption-BoT)                     
